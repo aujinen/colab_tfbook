@@ -22,4 +22,5 @@ Tensorflow-GPU: 2.6.0<br><br>
 GPU: NVIDIA Geforce RTX 3090<br>
 CUDA: 11.7.1<br>
 cuDNN: 8.6.0<br>
-Tensorflow-GPU: 2.6.0
+Tensorflow-GPU: 2.6.0<br><br>
+ref: https://nw.tsuda.ac.jp/lec/DeepLearning/TF2ObjDetectAPI/win_env/
